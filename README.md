@@ -5,7 +5,7 @@ ZenFlow is a modern, responsive SaaS landing page built for an AI-powered produc
 
 ## 🚀 Live Demo
 
-👉 [Live Sitel](https://zenflow.vercel.app)
+👉 [Live Site](https://zenflow.vercel.app)
 
 ---
 
